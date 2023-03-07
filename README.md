@@ -4,7 +4,7 @@ Submitted by: **Omar Mohamed**
 
 **BitFit 2** is a health metrics app that allows users to track ... [TODO]
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
